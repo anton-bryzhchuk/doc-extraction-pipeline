@@ -1,0 +1,259 @@
+{
+  "profile": "good",
+  "seed": 2026,
+  "n": 30,
+  "field_accuracy": 1.0,
+  "fields_correct": 924,
+  "fields_total": 924,
+  "auto_approved": 30,
+  "needs_review": 0,
+  "failed": 0,
+  "auto_approve_rate": 1.0,
+  "review_rate": 0.0,
+  "failure_rate": 0.0,
+  "mean_retries": 0.0,
+  "wrongly_auto_approved": 0,
+  "wrongly_auto_approved_examples": [],
+  "per_doc": [
+    {
+      "filename": "invoice_00.pdf",
+      "status": "auto_approved",
+      "failed_rules": [],
+      "retries": 0,
+      "field_correct": 28,
+      "field_total": 28
+    },
+    {
+      "filename": "invoice_01.pdf",
+      "status": "auto_approved",
+      "failed_rules": [],
+      "retries": 0,
+      "field_correct": 20,
+      "field_total": 20
+    },
+    {
+      "filename": "invoice_02.pdf",
+      "status": "auto_approved",
+      "failed_rules": [],
+      "retries": 0,
+      "field_correct": 28,
+      "field_total": 28
+    },
+    {
+      "filename": "invoice_03.pdf",
+      "status": "auto_approved",
+      "failed_rules": [],
+      "retries": 0,
+      "field_correct": 40,
+      "field_total": 40
+    },
+    {
+      "filename": "invoice_04.pdf",
+      "status": "auto_approved",
+      "failed_rules": [],
+      "retries": 0,
+      "field_correct": 36,
+      "field_total": 36
+    },
+    {
+      "filename": "invoice_05.pdf",
+      "status": "auto_approved",
+      "failed_rules": [],
+      "retries": 0,
+      "field_correct": 32,
+      "field_total": 32
+    },
+    {
+      "filename": "invoice_06.pdf",
+      "status": "auto_approved",
+      "failed_rules": [],
+      "retries": 0,
+      "field_correct": 32,
+      "field_total": 32
+    },
+    {
+      "filename": "invoice_07.pdf",
+      "status": "auto_approved",
+      "failed_rules": [],
+      "retries": 0,
+      "field_correct": 20,
+      "field_total": 20
+    },
+    {
+      "filename": "invoice_08.pdf",
+      "status": "auto_approved",
+      "failed_rules": [],
+      "retries": 0,
+      "field_correct": 20,
+      "field_total": 20
+    },
+    {
+      "filename": "invoice_09.pdf",
+      "status": "auto_approved",
+      "failed_rules": [],
+      "retries": 0,
+      "field_correct": 28,
+      "field_total": 28
+    },
+    {
+      "filename": "invoice_10.pdf",
+      "status": "auto_approved",
+      "failed_rules": [],
+      "retries": 0,
+      "field_correct": 28,
+      "field_total": 28
+    },
+    {
+      "filename": "invoice_11.pdf",
+      "status": "auto_approved",
+      "failed_rules": [],
+      "retries": 0,
+      "field_correct": 20,
+      "field_total": 20
+    },
+    {
+      "filename": "invoice_12.pdf",
+      "status": "auto_approved",
+      "failed_rules": [],
+      "retries": 0,
+      "field_correct": 32,
+      "field_total": 32
+    },
+    {
+      "filename": "invoice_13.pdf",
+      "status": "auto_approved",
+      "failed_rules": [],
+      "retries": 0,
+      "field_correct": 20,
+      "field_total": 20
+    },
+    {
+      "filename": "invoice_14.pdf",
+      "status": "auto_approved",
+      "failed_rules": [],
+      "retries": 0,
+      "field_correct": 40,
+      "field_total": 40
+    },
+    {
+      "filename": "invoice_15.pdf",
+      "status": "auto_approved",
+      "failed_rules": [],
+      "retries": 0,
+      "field_correct": 24,
+      "field_total": 24
+    },
+    {
+      "filename": "invoice_16.pdf",
+      "status": "auto_approved",
+      "failed_rules": [],
+      "retries": 0,
+      "field_correct": 28,
+      "field_total": 28
+    },
+    {
+      "filename": "invoice_17.pdf",
+      "status": "auto_approved",
+      "failed_rules": [],
+      "retries": 0,
+      "field_correct": 40,
+      "field_total": 40
+    },
+    {
+      "filename": "invoice_18.pdf",
+      "status": "auto_approved",
+      "failed_rules": [],
+      "retries": 0,
+      "field_correct": 28,
+      "field_total": 28
+    },
+    {
+      "filename": "invoice_19.pdf",
+      "status": "auto_approved",
+      "failed_rules": [],
+      "retries": 0,
+      "field_correct": 36,
+      "field_total": 36
+    },
+    {
+      "filename": "invoice_20.pdf",
+      "status": "auto_approved",
+      "failed_rules": [],
+      "retries": 0,
+      "field_correct": 28,
+      "field_total": 28
+    },
+    {
+      "filename": "invoice_21.pdf",
+      "status": "auto_approved",
+      "failed_rules": [],
+      "retries": 0,
+      "field_correct": 36,
+      "field_total": 36
+    },
+    {
+      "filename": "invoice_22.pdf",
+      "status": "auto_approved",
+      "failed_rules": [],
+      "retries": 0,
+      "field_correct": 40,
+      "field_total": 40
+    },
+    {
+      "filename": "invoice_23.pdf",
+      "status": "auto_approved",
+      "failed_rules": [],
+      "retries": 0,
+      "field_correct": 40,
+      "field_total": 40
+    },
+    {
+      "filename": "invoice_24.pdf",
+      "status": "auto_approved",
+      "failed_rules": [],
+      "retries": 0,
+      "field_correct": 40,
+      "field_total": 40
+    },
+    {
+      "filename": "invoice_25.pdf",
+      "status": "auto_approved",
+      "failed_rules": [],
+      "retries": 0,
+      "field_correct": 40,
+      "field_total": 40
+    },
+    {
+      "filename": "invoice_26.pdf",
+      "status": "auto_approved",
+      "failed_rules": [],
+      "retries": 0,
+      "field_correct": 36,
+      "field_total": 36
+    },
+    {
+      "filename": "invoice_27.pdf",
+      "status": "auto_approved",
+      "failed_rules": [],
+      "retries": 0,
+      "field_correct": 28,
+      "field_total": 28
+    },
+    {
+      "filename": "invoice_28.pdf",
+      "status": "auto_approved",
+      "failed_rules": [],
+      "retries": 0,
+      "field_correct": 24,
+      "field_total": 24
+    },
+    {
+      "filename": "invoice_29.pdf",
+      "status": "auto_approved",
+      "failed_rules": [],
+      "retries": 0,
+      "field_correct": 32,
+      "field_total": 32
+    }
+  ]
+}
