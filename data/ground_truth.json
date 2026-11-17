@@ -1,0 +1,1508 @@
+[
+  {
+    "filename": "invoice_00.pdf",
+    "lang": "en",
+    "data": {
+      "supplier_name": "Acme Trading Ltd",
+      "invoice_number": "INV-2025000",
+      "invoice_date": "2025-09-15",
+      "currency": "EUR",
+      "line_items": [
+        {
+          "description": "Toner Cartridge",
+          "quantity": "18",
+          "unit_price": "139.32",
+          "line_total": "2507.76"
+        },
+        {
+          "description": "Headset",
+          "quantity": "19",
+          "unit_price": "181.00",
+          "line_total": "3439.00"
+        },
+        {
+          "description": "Cable Tray",
+          "quantity": "16",
+          "unit_price": "247.59",
+          "line_total": "3961.44"
+        },
+        {
+          "description": "Ethernet Switch",
+          "quantity": "19",
+          "unit_price": "146.03",
+          "line_total": "2774.57"
+        },
+        {
+          "description": "Standing Desk",
+          "quantity": "8",
+          "unit_price": "2.33",
+          "line_total": "18.64"
+        }
+      ],
+      "net_total": "12701.41",
+      "vat_rate": "0.19",
+      "vat_amount": "2413.27",
+      "gross_total": "15114.68"
+    }
+  },
+  {
+    "filename": "invoice_01.pdf",
+    "lang": "de",
+    "data": {
+      "supplier_name": "Pacific Paper Inc",
+      "invoice_number": "INV-2025001",
+      "invoice_date": "2025-02-26",
+      "currency": "USD",
+      "line_items": [
+        {
+          "description": "Ethernet Switch",
+          "quantity": "15",
+          "unit_price": "5.26",
+          "line_total": "78.90"
+        },
+        {
+          "description": "Webcam",
+          "quantity": "16",
+          "unit_price": "224.12",
+          "line_total": "3585.92"
+        },
+        {
+          "description": "Desk Lamp",
+          "quantity": "11",
+          "unit_price": "70.38",
+          "line_total": "774.18"
+        }
+      ],
+      "net_total": "4439.00",
+      "vat_rate": "0.20",
+      "vat_amount": "887.80",
+      "gross_total": "5326.80"
+    }
+  },
+  {
+    "filename": "invoice_02.pdf",
+    "lang": "en",
+    "data": {
+      "supplier_name": "Donau Elektronik GmbH",
+      "invoice_number": "INV-2025002",
+      "invoice_date": "2025-06-28",
+      "currency": "UAH",
+      "line_items": [
+        {
+          "description": "Desk Organizer",
+          "quantity": "3",
+          "unit_price": "238.44",
+          "line_total": "715.32"
+        },
+        {
+          "description": "Standing Desk",
+          "quantity": "11",
+          "unit_price": "30.88",
+          "line_total": "339.68"
+        },
+        {
+          "description": "Keyboard",
+          "quantity": "18",
+          "unit_price": "177.81",
+          "line_total": "3200.58"
+        },
+        {
+          "description": "Cable Tray",
+          "quantity": "10",
+          "unit_price": "95.74",
+          "line_total": "957.40"
+        },
+        {
+          "description": "Whiteboard Marker",
+          "quantity": "15",
+          "unit_price": "47.66",
+          "line_total": "714.90"
+        }
+      ],
+      "net_total": "5927.88",
+      "vat_rate": "0.07",
+      "vat_amount": "414.95",
+      "gross_total": "6342.83"
+    }
+  },
+  {
+    "filename": "invoice_03.pdf",
+    "lang": "de",
+    "data": {
+      "supplier_name": "Lviv Print House",
+      "invoice_number": "INV-2025003",
+      "invoice_date": "2025-10-23",
+      "currency": "GBP",
+      "line_items": [
+        {
+          "description": "Ethernet Switch",
+          "quantity": "3",
+          "unit_price": "132.17",
+          "line_total": "396.51"
+        },
+        {
+          "description": "Office Chair",
+          "quantity": "19",
+          "unit_price": "183.18",
+          "line_total": "3480.42"
+        },
+        {
+          "description": "Webcam",
+          "quantity": "16",
+          "unit_price": "39.65",
+          "line_total": "634.40"
+        },
+        {
+          "description": "Desk Organizer",
+          "quantity": "14",
+          "unit_price": "167.42",
+          "line_total": "2343.88"
+        },
+        {
+          "description": "Monitor Stand",
+          "quantity": "20",
+          "unit_price": "162.40",
+          "line_total": "3248.00"
+        },
+        {
+          "description": "Standing Desk",
+          "quantity": "13",
+          "unit_price": "173.41",
+          "line_total": "2254.33"
+        },
+        {
+          "description": "Notebook Pack",
+          "quantity": "9",
+          "unit_price": "139.11",
+          "line_total": "1251.99"
+        },
+        {
+          "description": "Keyboard",
+          "quantity": "19",
+          "unit_price": "158.52",
+          "line_total": "3011.88"
+        }
+      ],
+      "net_total": "16621.41",
+      "vat_rate": "0.00",
+      "vat_amount": "0.00",
+      "gross_total": "16621.41"
+    }
+  },
+  {
+    "filename": "invoice_04.pdf",
+    "lang": "en",
+    "data": {
+      "supplier_name": "Helvetia Werkzeuge AG",
+      "invoice_number": "INV-2025004",
+      "invoice_date": "2025-01-13",
+      "currency": "EUR",
+      "line_items": [
+        {
+          "description": "Notebook Pack",
+          "quantity": "20",
+          "unit_price": "142.20",
+          "line_total": "2844.00"
+        },
+        {
+          "description": "Standing Desk",
+          "quantity": "16",
+          "unit_price": "48.16",
+          "line_total": "770.56"
+        },
+        {
+          "description": "Printer Paper",
+          "quantity": "16",
+          "unit_price": "76.51",
+          "line_total": "1224.16"
+        },
+        {
+          "description": "Office Chair",
+          "quantity": "4",
+          "unit_price": "206.84",
+          "line_total": "827.36"
+        },
+        {
+          "description": "Desk Organizer",
+          "quantity": "15",
+          "unit_price": "222.45",
+          "line_total": "3336.75"
+        },
+        {
+          "description": "Whiteboard Marker",
+          "quantity": "16",
+          "unit_price": "235.63",
+          "line_total": "3770.08"
+        },
+        {
+          "description": "Desk Lamp",
+          "quantity": "18",
+          "unit_price": "83.74",
+          "line_total": "1507.32"
+        }
+      ],
+      "net_total": "14280.23",
+      "vat_rate": "0.19",
+      "vat_amount": "2713.24",
+      "gross_total": "16993.47"
+    }
+  },
+  {
+    "filename": "invoice_05.pdf",
+    "lang": "de",
+    "data": {
+      "supplier_name": "Helvetia Werkzeuge AG",
+      "invoice_number": "INV-2025005",
+      "invoice_date": "2025-06-07",
+      "currency": "USD",
+      "line_items": [
+        {
+          "description": "Cable Tray",
+          "quantity": "9",
+          "unit_price": "4.53",
+          "line_total": "40.77"
+        },
+        {
+          "description": "Standing Desk",
+          "quantity": "2",
+          "unit_price": "50.60",
+          "line_total": "101.20"
+        },
+        {
+          "description": "Keyboard",
+          "quantity": "20",
+          "unit_price": "151.65",
+          "line_total": "3033.00"
+        },
+        {
+          "description": "Webcam",
+          "quantity": "17",
+          "unit_price": "161.90",
+          "line_total": "2752.30"
+        },
+        {
+          "description": "Toner Cartridge",
+          "quantity": "12",
+          "unit_price": "66.98",
+          "line_total": "803.76"
+        },
+        {
+          "description": "USB Cable",
+          "quantity": "9",
+          "unit_price": "228.46",
+          "line_total": "2056.14"
+        }
+      ],
+      "net_total": "8787.17",
+      "vat_rate": "0.20",
+      "vat_amount": "1757.43",
+      "gross_total": "10544.60"
+    }
+  },
+  {
+    "filename": "invoice_06.pdf",
+    "lang": "en",
+    "data": {
+      "supplier_name": "Maple & Co Supplies",
+      "invoice_number": "INV-2025006",
+      "invoice_date": "2025-09-19",
+      "currency": "UAH",
+      "line_items": [
+        {
+          "description": "Cable Tray",
+          "quantity": "10",
+          "unit_price": "105.26",
+          "line_total": "1052.60"
+        },
+        {
+          "description": "Standing Desk",
+          "quantity": "15",
+          "unit_price": "33.73",
+          "line_total": "505.95"
+        },
+        {
+          "description": "Keyboard",
+          "quantity": "15",
+          "unit_price": "227.38",
+          "line_total": "3410.70"
+        },
+        {
+          "description": "Whiteboard Marker",
+          "quantity": "17",
+          "unit_price": "86.31",
+          "line_total": "1467.27"
+        },
+        {
+          "description": "Power Adapter",
+          "quantity": "15",
+          "unit_price": "61.48",
+          "line_total": "922.20"
+        },
+        {
+          "description": "Office Chair",
+          "quantity": "14",
+          "unit_price": "240.04",
+          "line_total": "3360.56"
+        }
+      ],
+      "net_total": "10719.28",
+      "vat_rate": "0.07",
+      "vat_amount": "750.35",
+      "gross_total": "11469.63"
+    }
+  },
+  {
+    "filename": "invoice_07.pdf",
+    "lang": "de",
+    "data": {
+      "supplier_name": "Maple & Co Supplies",
+      "invoice_number": "INV-2025007",
+      "invoice_date": "2025-05-17",
+      "currency": "GBP",
+      "line_items": [
+        {
+          "description": "Cable Tray",
+          "quantity": "7",
+          "unit_price": "246.45",
+          "line_total": "1725.15"
+        },
+        {
+          "description": "Monitor Stand",
+          "quantity": "14",
+          "unit_price": "49.45",
+          "line_total": "692.30"
+        },
+        {
+          "description": "Desk Lamp",
+          "quantity": "15",
+          "unit_price": "6.09",
+          "line_total": "91.35"
+        }
+      ],
+      "net_total": "2508.80",
+      "vat_rate": "0.00",
+      "vat_amount": "0.00",
+      "gross_total": "2508.80"
+    }
+  },
+  {
+    "filename": "invoice_08.pdf",
+    "lang": "en",
+    "data": {
+      "supplier_name": "Acme Trading Ltd",
+      "invoice_number": "INV-2025008",
+      "invoice_date": "2025-08-20",
+      "currency": "EUR",
+      "line_items": [
+        {
+          "description": "Printer Paper",
+          "quantity": "7",
+          "unit_price": "82.71",
+          "line_total": "578.97"
+        },
+        {
+          "description": "Ethernet Switch",
+          "quantity": "4",
+          "unit_price": "205.01",
+          "line_total": "820.04"
+        },
+        {
+          "description": "Standing Desk",
+          "quantity": "2",
+          "unit_price": "247.86",
+          "line_total": "495.72"
+        }
+      ],
+      "net_total": "1894.73",
+      "vat_rate": "0.19",
+      "vat_amount": "360.00",
+      "gross_total": "2254.73"
+    }
+  },
+  {
+    "filename": "invoice_09.pdf",
+    "lang": "de",
+    "data": {
+      "supplier_name": "Helvetia Werkzeuge AG",
+      "invoice_number": "INV-2025009",
+      "invoice_date": "2025-07-02",
+      "currency": "USD",
+      "line_items": [
+        {
+          "description": "USB Cable",
+          "quantity": "19",
+          "unit_price": "162.71",
+          "line_total": "3091.49"
+        },
+        {
+          "description": "Office Chair",
+          "quantity": "5",
+          "unit_price": "180.34",
+          "line_total": "901.70"
+        },
+        {
+          "description": "Monitor Stand",
+          "quantity": "8",
+          "unit_price": "156.48",
+          "line_total": "1251.84"
+        },
+        {
+          "description": "Power Adapter",
+          "quantity": "19",
+          "unit_price": "44.49",
+          "line_total": "845.31"
+        },
+        {
+          "description": "Ethernet Switch",
+          "quantity": "20",
+          "unit_price": "228.43",
+          "line_total": "4568.60"
+        }
+      ],
+      "net_total": "10658.94",
+      "vat_rate": "0.20",
+      "vat_amount": "2131.79",
+      "gross_total": "12790.73"
+    }
+  },
+  {
+    "filename": "invoice_10.pdf",
+    "lang": "en",
+    "data": {
+      "supplier_name": "Helvetia Werkzeuge AG",
+      "invoice_number": "INV-2025010",
+      "invoice_date": "2025-02-13",
+      "currency": "UAH",
+      "line_items": [
+        {
+          "description": "Webcam",
+          "quantity": "10",
+          "unit_price": "167.86",
+          "line_total": "1678.60"
+        },
+        {
+          "description": "Power Adapter",
+          "quantity": "14",
+          "unit_price": "129.42",
+          "line_total": "1811.88"
+        },
+        {
+          "description": "Printer Paper",
+          "quantity": "5",
+          "unit_price": "171.90",
+          "line_total": "859.50"
+        },
+        {
+          "description": "Cable Tray",
+          "quantity": "7",
+          "unit_price": "124.70",
+          "line_total": "872.90"
+        },
+        {
+          "description": "Ethernet Switch",
+          "quantity": "1",
+          "unit_price": "36.27",
+          "line_total": "36.27"
+        }
+      ],
+      "net_total": "5259.15",
+      "vat_rate": "0.07",
+      "vat_amount": "368.14",
+      "gross_total": "5627.29"
+    }
+  },
+  {
+    "filename": "invoice_11.pdf",
+    "lang": "de",
+    "data": {
+      "supplier_name": "Donau Elektronik GmbH",
+      "invoice_number": "INV-2025011",
+      "invoice_date": "2025-01-27",
+      "currency": "GBP",
+      "line_items": [
+        {
+          "description": "Desk Organizer",
+          "quantity": "1",
+          "unit_price": "9.88",
+          "line_total": "9.88"
+        },
+        {
+          "description": "Power Adapter",
+          "quantity": "17",
+          "unit_price": "157.48",
+          "line_total": "2677.16"
+        },
+        {
+          "description": "Monitor Stand",
+          "quantity": "11",
+          "unit_price": "225.23",
+          "line_total": "2477.53"
+        }
+      ],
+      "net_total": "5164.57",
+      "vat_rate": "0.00",
+      "vat_amount": "0.00",
+      "gross_total": "5164.57"
+    }
+  },
+  {
+    "filename": "invoice_12.pdf",
+    "lang": "en",
+    "data": {
+      "supplier_name": "Kyiv Components LLC",
+      "invoice_number": "INV-2025012",
+      "invoice_date": "2025-06-16",
+      "currency": "EUR",
+      "line_items": [
+        {
+          "description": "Toner Cartridge",
+          "quantity": "5",
+          "unit_price": "195.24",
+          "line_total": "976.20"
+        },
+        {
+          "description": "Notebook Pack",
+          "quantity": "17",
+          "unit_price": "69.32",
+          "line_total": "1178.44"
+        },
+        {
+          "description": "Headset",
+          "quantity": "14",
+          "unit_price": "205.75",
+          "line_total": "2880.50"
+        },
+        {
+          "description": "Ethernet Switch",
+          "quantity": "11",
+          "unit_price": "151.84",
+          "line_total": "1670.24"
+        },
+        {
+          "description": "Standing Desk",
+          "quantity": "20",
+          "unit_price": "77.95",
+          "line_total": "1559.00"
+        },
+        {
+          "description": "Printer Paper",
+          "quantity": "3",
+          "unit_price": "180.85",
+          "line_total": "542.55"
+        }
+      ],
+      "net_total": "8806.93",
+      "vat_rate": "0.19",
+      "vat_amount": "1673.32",
+      "gross_total": "10480.25"
+    }
+  },
+  {
+    "filename": "invoice_13.pdf",
+    "lang": "de",
+    "data": {
+      "supplier_name": "Donau Elektronik GmbH",
+      "invoice_number": "INV-2025013",
+      "invoice_date": "2025-04-11",
+      "currency": "USD",
+      "line_items": [
+        {
+          "description": "Monitor Stand",
+          "quantity": "18",
+          "unit_price": "17.29",
+          "line_total": "311.22"
+        },
+        {
+          "description": "Office Chair",
+          "quantity": "15",
+          "unit_price": "248.80",
+          "line_total": "3732.00"
+        },
+        {
+          "description": "Power Adapter",
+          "quantity": "7",
+          "unit_price": "160.04",
+          "line_total": "1120.28"
+        }
+      ],
+      "net_total": "5163.50",
+      "vat_rate": "0.20",
+      "vat_amount": "1032.70",
+      "gross_total": "6196.20"
+    }
+  },
+  {
+    "filename": "invoice_14.pdf",
+    "lang": "en",
+    "data": {
+      "supplier_name": "Greenfield Hardware Ltd",
+      "invoice_number": "INV-2025014",
+      "invoice_date": "2025-01-11",
+      "currency": "UAH",
+      "line_items": [
+        {
+          "description": "USB Cable",
+          "quantity": "13",
+          "unit_price": "90.89",
+          "line_total": "1181.57"
+        },
+        {
+          "description": "Power Adapter",
+          "quantity": "14",
+          "unit_price": "176.15",
+          "line_total": "2466.10"
+        },
+        {
+          "description": "Whiteboard Marker",
+          "quantity": "14",
+          "unit_price": "27.27",
+          "line_total": "381.78"
+        },
+        {
+          "description": "Toner Cartridge",
+          "quantity": "13",
+          "unit_price": "101.41",
+          "line_total": "1318.33"
+        },
+        {
+          "description": "Webcam",
+          "quantity": "6",
+          "unit_price": "114.24",
+          "line_total": "685.44"
+        },
+        {
+          "description": "Printer Paper",
+          "quantity": "6",
+          "unit_price": "87.82",
+          "line_total": "526.92"
+        },
+        {
+          "description": "Headset",
+          "quantity": "15",
+          "unit_price": "164.55",
+          "line_total": "2468.25"
+        },
+        {
+          "description": "Ethernet Switch",
+          "quantity": "14",
+          "unit_price": "95.76",
+          "line_total": "1340.64"
+        }
+      ],
+      "net_total": "10369.03",
+      "vat_rate": "0.07",
+      "vat_amount": "725.83",
+      "gross_total": "11094.86"
+    }
+  },
+  {
+    "filename": "invoice_15.pdf",
+    "lang": "de",
+    "data": {
+      "supplier_name": "Maple & Co Supplies",
+      "invoice_number": "INV-2025015",
+      "invoice_date": "2025-06-16",
+      "currency": "GBP",
+      "line_items": [
+        {
+          "description": "Cable Tray",
+          "quantity": "17",
+          "unit_price": "91.22",
+          "line_total": "1550.74"
+        },
+        {
+          "description": "Notebook Pack",
+          "quantity": "4",
+          "unit_price": "71.73",
+          "line_total": "286.92"
+        },
+        {
+          "description": "Desk Lamp",
+          "quantity": "8",
+          "unit_price": "3.10",
+          "line_total": "24.80"
+        },
+        {
+          "description": "Whiteboard Marker",
+          "quantity": "3",
+          "unit_price": "150.30",
+          "line_total": "450.90"
+        }
+      ],
+      "net_total": "2313.36",
+      "vat_rate": "0.00",
+      "vat_amount": "0.00",
+      "gross_total": "2313.36"
+    }
+  },
+  {
+    "filename": "invoice_16.pdf",
+    "lang": "en",
+    "data": {
+      "supplier_name": "Lviv Print House",
+      "invoice_number": "INV-2025016",
+      "invoice_date": "2025-07-28",
+      "currency": "EUR",
+      "line_items": [
+        {
+          "description": "Monitor Stand",
+          "quantity": "18",
+          "unit_price": "226.66",
+          "line_total": "4079.88"
+        },
+        {
+          "description": "Office Chair",
+          "quantity": "19",
+          "unit_price": "177.91",
+          "line_total": "3380.29"
+        },
+        {
+          "description": "Cable Tray",
+          "quantity": "7",
+          "unit_price": "37.44",
+          "line_total": "262.08"
+        },
+        {
+          "description": "Printer Paper",
+          "quantity": "20",
+          "unit_price": "236.12",
+          "line_total": "4722.40"
+        },
+        {
+          "description": "Webcam",
+          "quantity": "9",
+          "unit_price": "183.62",
+          "line_total": "1652.58"
+        }
+      ],
+      "net_total": "14097.23",
+      "vat_rate": "0.19",
+      "vat_amount": "2678.47",
+      "gross_total": "16775.70"
+    }
+  },
+  {
+    "filename": "invoice_17.pdf",
+    "lang": "de",
+    "data": {
+      "supplier_name": "Pacific Paper Inc",
+      "invoice_number": "INV-2025017",
+      "invoice_date": "2025-04-20",
+      "currency": "USD",
+      "line_items": [
+        {
+          "description": "Ethernet Switch",
+          "quantity": "4",
+          "unit_price": "144.38",
+          "line_total": "577.52"
+        },
+        {
+          "description": "Cable Tray",
+          "quantity": "6",
+          "unit_price": "36.24",
+          "line_total": "217.44"
+        },
+        {
+          "description": "USB Cable",
+          "quantity": "2",
+          "unit_price": "118.23",
+          "line_total": "236.46"
+        },
+        {
+          "description": "Power Adapter",
+          "quantity": "6",
+          "unit_price": "213.16",
+          "line_total": "1278.96"
+        },
+        {
+          "description": "Whiteboard Marker",
+          "quantity": "4",
+          "unit_price": "167.51",
+          "line_total": "670.04"
+        },
+        {
+          "description": "Printer Paper",
+          "quantity": "11",
+          "unit_price": "92.19",
+          "line_total": "1014.09"
+        },
+        {
+          "description": "Desk Lamp",
+          "quantity": "19",
+          "unit_price": "22.44",
+          "line_total": "426.36"
+        },
+        {
+          "description": "Webcam",
+          "quantity": "10",
+          "unit_price": "104.58",
+          "line_total": "1045.80"
+        }
+      ],
+      "net_total": "5466.67",
+      "vat_rate": "0.20",
+      "vat_amount": "1093.33",
+      "gross_total": "6560.00"
+    }
+  },
+  {
+    "filename": "invoice_18.pdf",
+    "lang": "en",
+    "data": {
+      "supplier_name": "Blaustern Logistik AG",
+      "invoice_number": "INV-2025018",
+      "invoice_date": "2025-05-12",
+      "currency": "UAH",
+      "line_items": [
+        {
+          "description": "Printer Paper",
+          "quantity": "14",
+          "unit_price": "6.55",
+          "line_total": "91.70"
+        },
+        {
+          "description": "Office Chair",
+          "quantity": "2",
+          "unit_price": "33.10",
+          "line_total": "66.20"
+        },
+        {
+          "description": "Keyboard",
+          "quantity": "8",
+          "unit_price": "9.02",
+          "line_total": "72.16"
+        },
+        {
+          "description": "Standing Desk",
+          "quantity": "10",
+          "unit_price": "41.81",
+          "line_total": "418.10"
+        },
+        {
+          "description": "USB Cable",
+          "quantity": "4",
+          "unit_price": "226.23",
+          "line_total": "904.92"
+        }
+      ],
+      "net_total": "1553.08",
+      "vat_rate": "0.07",
+      "vat_amount": "108.72",
+      "gross_total": "1661.80"
+    }
+  },
+  {
+    "filename": "invoice_19.pdf",
+    "lang": "de",
+    "data": {
+      "supplier_name": "Helvetia Werkzeuge AG",
+      "invoice_number": "INV-2025019",
+      "invoice_date": "2025-06-29",
+      "currency": "GBP",
+      "line_items": [
+        {
+          "description": "Power Adapter",
+          "quantity": "2",
+          "unit_price": "133.94",
+          "line_total": "267.88"
+        },
+        {
+          "description": "Standing Desk",
+          "quantity": "11",
+          "unit_price": "200.65",
+          "line_total": "2207.15"
+        },
+        {
+          "description": "Notebook Pack",
+          "quantity": "7",
+          "unit_price": "196.16",
+          "line_total": "1373.12"
+        },
+        {
+          "description": "Ethernet Switch",
+          "quantity": "15",
+          "unit_price": "141.13",
+          "line_total": "2116.95"
+        },
+        {
+          "description": "Cable Tray",
+          "quantity": "4",
+          "unit_price": "226.44",
+          "line_total": "905.76"
+        },
+        {
+          "description": "Desk Organizer",
+          "quantity": "12",
+          "unit_price": "165.75",
+          "line_total": "1989.00"
+        },
+        {
+          "description": "Headset",
+          "quantity": "9",
+          "unit_price": "128.98",
+          "line_total": "1160.82"
+        }
+      ],
+      "net_total": "10020.68",
+      "vat_rate": "0.00",
+      "vat_amount": "0.00",
+      "gross_total": "10020.68"
+    }
+  },
+  {
+    "filename": "invoice_20.pdf",
+    "lang": "en",
+    "data": {
+      "supplier_name": "Kyiv Components LLC",
+      "invoice_number": "INV-2025020",
+      "invoice_date": "2025-01-30",
+      "currency": "EUR",
+      "line_items": [
+        {
+          "description": "Webcam",
+          "quantity": "11",
+          "unit_price": "96.38",
+          "line_total": "1060.18"
+        },
+        {
+          "description": "Headset",
+          "quantity": "4",
+          "unit_price": "98.80",
+          "line_total": "395.20"
+        },
+        {
+          "description": "Office Chair",
+          "quantity": "14",
+          "unit_price": "105.99",
+          "line_total": "1483.86"
+        },
+        {
+          "description": "USB Cable",
+          "quantity": "19",
+          "unit_price": "8.14",
+          "line_total": "154.66"
+        },
+        {
+          "description": "Desk Organizer",
+          "quantity": "18",
+          "unit_price": "113.72",
+          "line_total": "2046.96"
+        }
+      ],
+      "net_total": "5140.86",
+      "vat_rate": "0.19",
+      "vat_amount": "976.76",
+      "gross_total": "6117.62"
+    }
+  },
+  {
+    "filename": "invoice_21.pdf",
+    "lang": "de",
+    "data": {
+      "supplier_name": "Orion Office Co",
+      "invoice_number": "INV-2025021",
+      "invoice_date": "2025-01-29",
+      "currency": "USD",
+      "line_items": [
+        {
+          "description": "Toner Cartridge",
+          "quantity": "17",
+          "unit_price": "117.51",
+          "line_total": "1997.67"
+        },
+        {
+          "description": "Printer Paper",
+          "quantity": "20",
+          "unit_price": "213.80",
+          "line_total": "4276.00"
+        },
+        {
+          "description": "Ethernet Switch",
+          "quantity": "10",
+          "unit_price": "10.93",
+          "line_total": "109.30"
+        },
+        {
+          "description": "Desk Lamp",
+          "quantity": "14",
+          "unit_price": "190.94",
+          "line_total": "2673.16"
+        },
+        {
+          "description": "Standing Desk",
+          "quantity": "5",
+          "unit_price": "118.14",
+          "line_total": "590.70"
+        },
+        {
+          "description": "Office Chair",
+          "quantity": "14",
+          "unit_price": "127.36",
+          "line_total": "1783.04"
+        },
+        {
+          "description": "Headset",
+          "quantity": "13",
+          "unit_price": "79.91",
+          "line_total": "1038.83"
+        }
+      ],
+      "net_total": "12468.70",
+      "vat_rate": "0.20",
+      "vat_amount": "2493.74",
+      "gross_total": "14962.44"
+    }
+  },
+  {
+    "filename": "invoice_22.pdf",
+    "lang": "en",
+    "data": {
+      "supplier_name": "Donau Elektronik GmbH",
+      "invoice_number": "INV-2025022",
+      "invoice_date": "2025-04-23",
+      "currency": "UAH",
+      "line_items": [
+        {
+          "description": "USB Cable",
+          "quantity": "9",
+          "unit_price": "49.89",
+          "line_total": "449.01"
+        },
+        {
+          "description": "Printer Paper",
+          "quantity": "8",
+          "unit_price": "9.15",
+          "line_total": "73.20"
+        },
+        {
+          "description": "Whiteboard Marker",
+          "quantity": "1",
+          "unit_price": "92.21",
+          "line_total": "92.21"
+        },
+        {
+          "description": "Office Chair",
+          "quantity": "18",
+          "unit_price": "158.40",
+          "line_total": "2851.20"
+        },
+        {
+          "description": "Power Adapter",
+          "quantity": "14",
+          "unit_price": "87.94",
+          "line_total": "1231.16"
+        },
+        {
+          "description": "Webcam",
+          "quantity": "11",
+          "unit_price": "46.93",
+          "line_total": "516.23"
+        },
+        {
+          "description": "Desk Organizer",
+          "quantity": "19",
+          "unit_price": "30.80",
+          "line_total": "585.20"
+        },
+        {
+          "description": "Keyboard",
+          "quantity": "6",
+          "unit_price": "182.70",
+          "line_total": "1096.20"
+        }
+      ],
+      "net_total": "6894.41",
+      "vat_rate": "0.07",
+      "vat_amount": "482.61",
+      "gross_total": "7377.02"
+    }
+  },
+  {
+    "filename": "invoice_23.pdf",
+    "lang": "de",
+    "data": {
+      "supplier_name": "Nordwind Supplies GmbH",
+      "invoice_number": "INV-2025023",
+      "invoice_date": "2025-09-21",
+      "currency": "GBP",
+      "line_items": [
+        {
+          "description": "Whiteboard Marker",
+          "quantity": "8",
+          "unit_price": "155.68",
+          "line_total": "1245.44"
+        },
+        {
+          "description": "Monitor Stand",
+          "quantity": "2",
+          "unit_price": "74.19",
+          "line_total": "148.38"
+        },
+        {
+          "description": "Power Adapter",
+          "quantity": "17",
+          "unit_price": "50.92",
+          "line_total": "865.64"
+        },
+        {
+          "description": "Cable Tray",
+          "quantity": "13",
+          "unit_price": "233.25",
+          "line_total": "3032.25"
+        },
+        {
+          "description": "Desk Organizer",
+          "quantity": "12",
+          "unit_price": "77.68",
+          "line_total": "932.16"
+        },
+        {
+          "description": "Headset",
+          "quantity": "18",
+          "unit_price": "91.86",
+          "line_total": "1653.48"
+        },
+        {
+          "description": "Office Chair",
+          "quantity": "11",
+          "unit_price": "67.35",
+          "line_total": "740.85"
+        },
+        {
+          "description": "Ethernet Switch",
+          "quantity": "12",
+          "unit_price": "119.17",
+          "line_total": "1430.04"
+        }
+      ],
+      "net_total": "10048.24",
+      "vat_rate": "0.00",
+      "vat_amount": "0.00",
+      "gross_total": "10048.24"
+    }
+  },
+  {
+    "filename": "invoice_24.pdf",
+    "lang": "en",
+    "data": {
+      "supplier_name": "Maple & Co Supplies",
+      "invoice_number": "INV-2025024",
+      "invoice_date": "2025-08-23",
+      "currency": "EUR",
+      "line_items": [
+        {
+          "description": "Cable Tray",
+          "quantity": "14",
+          "unit_price": "51.89",
+          "line_total": "726.46"
+        },
+        {
+          "description": "Headset",
+          "quantity": "16",
+          "unit_price": "3.24",
+          "line_total": "51.84"
+        },
+        {
+          "description": "Standing Desk",
+          "quantity": "12",
+          "unit_price": "172.95",
+          "line_total": "2075.40"
+        },
+        {
+          "description": "Power Adapter",
+          "quantity": "14",
+          "unit_price": "13.79",
+          "line_total": "193.06"
+        },
+        {
+          "description": "Ethernet Switch",
+          "quantity": "6",
+          "unit_price": "29.09",
+          "line_total": "174.54"
+        },
+        {
+          "description": "USB Cable",
+          "quantity": "10",
+          "unit_price": "123.65",
+          "line_total": "1236.50"
+        },
+        {
+          "description": "Toner Cartridge",
+          "quantity": "18",
+          "unit_price": "241.03",
+          "line_total": "4338.54"
+        },
+        {
+          "description": "Printer Paper",
+          "quantity": "9",
+          "unit_price": "46.70",
+          "line_total": "420.30"
+        }
+      ],
+      "net_total": "9216.64",
+      "vat_rate": "0.19",
+      "vat_amount": "1751.16",
+      "gross_total": "10967.80"
+    }
+  },
+  {
+    "filename": "invoice_25.pdf",
+    "lang": "de",
+    "data": {
+      "supplier_name": "Greenfield Hardware Ltd",
+      "invoice_number": "INV-2025025",
+      "invoice_date": "2025-02-21",
+      "currency": "USD",
+      "line_items": [
+        {
+          "description": "Office Chair",
+          "quantity": "13",
+          "unit_price": "126.20",
+          "line_total": "1640.60"
+        },
+        {
+          "description": "Whiteboard Marker",
+          "quantity": "18",
+          "unit_price": "170.77",
+          "line_total": "3073.86"
+        },
+        {
+          "description": "Toner Cartridge",
+          "quantity": "6",
+          "unit_price": "168.21",
+          "line_total": "1009.26"
+        },
+        {
+          "description": "Desk Organizer",
+          "quantity": "4",
+          "unit_price": "29.52",
+          "line_total": "118.08"
+        },
+        {
+          "description": "Ethernet Switch",
+          "quantity": "5",
+          "unit_price": "241.55",
+          "line_total": "1207.75"
+        },
+        {
+          "description": "USB Cable",
+          "quantity": "13",
+          "unit_price": "110.81",
+          "line_total": "1440.53"
+        },
+        {
+          "description": "Standing Desk",
+          "quantity": "18",
+          "unit_price": "87.16",
+          "line_total": "1568.88"
+        },
+        {
+          "description": "Cable Tray",
+          "quantity": "10",
+          "unit_price": "15.12",
+          "line_total": "151.20"
+        }
+      ],
+      "net_total": "10210.16",
+      "vat_rate": "0.20",
+      "vat_amount": "2042.03",
+      "gross_total": "12252.19"
+    }
+  },
+  {
+    "filename": "invoice_26.pdf",
+    "lang": "en",
+    "data": {
+      "supplier_name": "Greenfield Hardware Ltd",
+      "invoice_number": "INV-2025026",
+      "invoice_date": "2025-04-08",
+      "currency": "UAH",
+      "line_items": [
+        {
+          "description": "Monitor Stand",
+          "quantity": "5",
+          "unit_price": "128.84",
+          "line_total": "644.20"
+        },
+        {
+          "description": "Headset",
+          "quantity": "7",
+          "unit_price": "246.27",
+          "line_total": "1723.89"
+        },
+        {
+          "description": "USB Cable",
+          "quantity": "1",
+          "unit_price": "200.05",
+          "line_total": "200.05"
+        },
+        {
+          "description": "Webcam",
+          "quantity": "16",
+          "unit_price": "139.99",
+          "line_total": "2239.84"
+        },
+        {
+          "description": "Whiteboard Marker",
+          "quantity": "12",
+          "unit_price": "177.58",
+          "line_total": "2130.96"
+        },
+        {
+          "description": "Standing Desk",
+          "quantity": "6",
+          "unit_price": "238.07",
+          "line_total": "1428.42"
+        },
+        {
+          "description": "Cable Tray",
+          "quantity": "17",
+          "unit_price": "11.17",
+          "line_total": "189.89"
+        }
+      ],
+      "net_total": "8557.25",
+      "vat_rate": "0.07",
+      "vat_amount": "599.01",
+      "gross_total": "9156.26"
+    }
+  },
+  {
+    "filename": "invoice_27.pdf",
+    "lang": "de",
+    "data": {
+      "supplier_name": "Blaustern Logistik AG",
+      "invoice_number": "INV-2025027",
+      "invoice_date": "2025-10-04",
+      "currency": "GBP",
+      "line_items": [
+        {
+          "description": "USB Cable",
+          "quantity": "1",
+          "unit_price": "124.23",
+          "line_total": "124.23"
+        },
+        {
+          "description": "Printer Paper",
+          "quantity": "3",
+          "unit_price": "122.08",
+          "line_total": "366.24"
+        },
+        {
+          "description": "Office Chair",
+          "quantity": "10",
+          "unit_price": "72.34",
+          "line_total": "723.40"
+        },
+        {
+          "description": "Desk Lamp",
+          "quantity": "18",
+          "unit_price": "52.03",
+          "line_total": "936.54"
+        },
+        {
+          "description": "Whiteboard Marker",
+          "quantity": "20",
+          "unit_price": "201.39",
+          "line_total": "4027.80"
+        }
+      ],
+      "net_total": "6178.21",
+      "vat_rate": "0.00",
+      "vat_amount": "0.00",
+      "gross_total": "6178.21"
+    }
+  },
+  {
+    "filename": "invoice_28.pdf",
+    "lang": "en",
+    "data": {
+      "supplier_name": "Orion Office Co",
+      "invoice_number": "INV-2025028",
+      "invoice_date": "2025-02-24",
+      "currency": "EUR",
+      "line_items": [
+        {
+          "description": "Power Adapter",
+          "quantity": "3",
+          "unit_price": "126.41",
+          "line_total": "379.23"
+        },
+        {
+          "description": "Notebook Pack",
+          "quantity": "9",
+          "unit_price": "203.66",
+          "line_total": "1832.94"
+        },
+        {
+          "description": "Desk Lamp",
+          "quantity": "10",
+          "unit_price": "213.68",
+          "line_total": "2136.80"
+        },
+        {
+          "description": "Desk Organizer",
+          "quantity": "4",
+          "unit_price": "115.46",
+          "line_total": "461.84"
+        }
+      ],
+      "net_total": "4810.81",
+      "vat_rate": "0.19",
+      "vat_amount": "914.05",
+      "gross_total": "5724.86"
+    }
+  },
+  {
+    "filename": "invoice_29.pdf",
+    "lang": "de",
+    "data": {
+      "supplier_name": "Maple & Co Supplies",
+      "invoice_number": "INV-2025029",
+      "invoice_date": "2025-03-03",
+      "currency": "USD",
+      "line_items": [
+        {
+          "description": "Notebook Pack",
+          "quantity": "12",
+          "unit_price": "28.54",
+          "line_total": "342.48"
+        },
+        {
+          "description": "Webcam",
+          "quantity": "3",
+          "unit_price": "30.29",
+          "line_total": "90.87"
+        },
+        {
+          "description": "Monitor Stand",
+          "quantity": "16",
+          "unit_price": "103.74",
+          "line_total": "1659.84"
+        },
+        {
+          "description": "Power Adapter",
+          "quantity": "9",
+          "unit_price": "248.33",
+          "line_total": "2234.97"
+        },
+        {
+          "description": "Cable Tray",
+          "quantity": "8",
+          "unit_price": "56.66",
+          "line_total": "453.28"
+        },
+        {
+          "description": "Ethernet Switch",
+          "quantity": "11",
+          "unit_price": "143.25",
+          "line_total": "1575.75"
+        }
+      ],
+      "net_total": "6357.19",
+      "vat_rate": "0.20",
+      "vat_amount": "1271.44",
+      "gross_total": "7628.63"
+    }
+  }
+]
