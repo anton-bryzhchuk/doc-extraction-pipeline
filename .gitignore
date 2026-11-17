@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Caches
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Secrets
+.env
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+*.log
+logs/
+
+# Generated reports (a committed sample lives in docs/ instead)
+reports/*
+!reports/.gitkeep
+
+# Generated invoice PDFs (ground_truth.json is committed; PDFs are regenerated)
+data/invoices/*.pdf
+
+# OS
+.DS_Store
