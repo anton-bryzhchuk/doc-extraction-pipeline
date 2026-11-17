@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Review queue</title>
+  <style>
+    body { font-family: system-ui, sans-serif; margin: 2rem; color: #1a1a1a; }
+    h1 { font-size: 1.4rem; }
+    table { border-collapse: collapse; width: 100%; max-width: 900px; }
+    th, td { text-align: left; padding: 8px 10px; border-bottom: 1px solid #ddd; }
+    th { background: #f4f4f5; }
+    .tag { background: #fde68a; padding: 2px 6px; border-radius: 4px; font-size: 0.8rem; }
+    a { color: #2563eb; text-decoration: none; }
+    .empty { color: #666; }
+  </style>
+</head>
+<body>
+  <h1>Review queue <span class="tag">needs_review</span></h1>
+  {% if documents %}
+  <table>
+    <thead>
+      <tr><th>ID</th><th>File</th><th>Failed rules</th><th></th></tr>
+    </thead>
+    <tbody>
+      {% for d in documents %}
+      <tr>
+        <td>{{ d.id }}</td>
+        <td>{{ d.filename }}</td>
+        <td>{{ (d.failed_rules or []) | join(", ") }}</td>
+        <td><a href="/review/{{ d.id }}">Open &rarr;</a></td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+  {% else %}
+  <p class="empty">Nothing to review. 🎉</p>
+  {% endif %}
+</body>
+</html>
